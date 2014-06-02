@@ -89,7 +89,7 @@ Des documentations plus détaillées sont disponibles sur les différents repos 
 
 h1. Interaction
 
-GitHub, qui héberge le code de ces projets, dispose de 2 outils particulièrement utilisés dans la communauté et que nous allons utiliser durant cette semaine pour vous fournir du support et pour recevoir vos contributios :
+GitHub, qui héberge le code de ces projets, dispose de 2 outils particulièrement utilisés dans la communauté et que nous allons utiliser durant cette semaine pour vous fournir du support et pour recevoir vos contributions :
 * Un système de ticket: 'Issue'
 * Un outil pour dupliquer un repo, le modifier et proposer les modification au repository initial: les Pull Request
 

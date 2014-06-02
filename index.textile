@@ -7,7 +7,7 @@ h1. Introduction
 
 h2. SimRuby?
 
-Tu es sur la page de présentation de la Semaine IMmersive Ruby et Ruby on Rails de Sup'Internet. Si tu n'es pas étudiant en 2e année à "Sup'Internet"://www.supinternet.fr, tu peux toujours utiliser les éléments fournis ici pour démarrer ton apprentissage de Ruby et de Rails en utilisant le mécanisme de correction automatique fourni.
+Tu es sur la page de présentation de la Semaine Immersive Ruby et Ruby on Rails de Sup'Internet. Si tu n'es pas étudiant en 2e année à "Sup'Internet"://www.supinternet.fr, tu peux toujours utiliser les éléments fournis ici pour démarrer ton apprentissage de Ruby et de Rails en utilisant le mécanisme de correction automatique fourni.
 
 h2. SimRuby!
 

@@ -7,7 +7,7 @@ h1. Introduction
 
 h2. SimRuby?
 
-Tu es sur la page de présentation de la Semaine IMmersive Ruby et Ruby on Rails de Sup'Internet. Si tu n'es pas étudiant en 2e année à "Sup'Internet"://www.supinternet.fr, tu peux toujours utiliser les éléments fournis ici pour démarrer ton apprentissage de Ruby et de Rails en utilisant le mécanisme de correction automatique fourni.
+Tu es sur la page de présentation de la Semaine Immersive Ruby et Ruby on Rails de Sup'Internet. Si tu n'es pas étudiant en 2e année à "Sup'Internet"://www.supinternet.fr, tu peux toujours utiliser les éléments fournis ici pour démarrer ton apprentissage de Ruby et de Rails en utilisant le mécanisme de correction automatique fourni.
 
 h2. SimRuby!
 
@@ -97,7 +97,7 @@ Voici les instructions et la documentation de ces outils:
 
 h2. Support
 
-Si vous rencontrez un problème que vous pensez être un bug venant de notre côté (c'est _notre_ faute), ou si vous pensez que des éléments mériterait des précisions, vous pouvez ouvrir un ticket sur GitHub (une issue) pour nous en faire part. Le processus est le suivant :
+Si vous rencontrez un problème que vous pensez être un bug venant de notre côté (c'est _notre_ faute), ou si vous pensez que des éléments mériteraient des précisions, vous pouvez ouvrir un ticket sur GitHub (une issue) pour nous en faire part. Le processus est le suivant :
 
 * Vérifiez que la question n'a pas déjà été posée par un autre étudiant en utilisant la recherche et en regardant le titre des tickets existants (vérfiez les tickets close)
 * Si vous ne trouvez pas votre problème dans un autre ticket, vous pouvez en créer un nouveau en cliquant sur 'New Issue'. Merci de rédiger si possible, votre ticket en anglais, sinon ajoutez le tag 'fr'
